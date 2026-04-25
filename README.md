@@ -1,4 +1,4 @@
-# 🐸 Doodle Jump — Recreated with Data Structures & Algorithms
+# 🐱‍🚀Doodle Jump — Recreated with Data Structures & Algorithms
 
 > A C# recreation of the classic arcade game **Doodle Jump**, built as a course project for **CSC-221: Data Structures and Algorithms** at Bahria University, Karachi Campus.
 
