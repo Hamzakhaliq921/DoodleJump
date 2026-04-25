@@ -4,30 +4,6 @@
 
 ---
 
-## 📋 Project Info
-
-| Field | Details |
-|---|---|
-| **Course** | CSC-221 — Data Structures and Algorithm Lab |
-| **Term** | Fall 2024 |
-| **Class** | BSE-3B |
-| **Institution** | Bahria University, Karachi Campus |
-| **Course Instructor** | Engr. Dr. Sohaib Ahmed |
-| **Lab Instructor** | Engr. Saniya Sarim |
-
----
-
-## 👥 Team Members
-
-| Name | Enrollment # | Role |
-|---|---|---|
-| **Khizar Akram** | 02-131232-064 | Team Lead — Project management & module integration |
-| **Hamza Khaliq** | 02-131232-059 | Monte Carlo algorithm for platform generation |
-| **Hassan Asif** | 02-131232-113 | Hashing Tree for object management & collision detection |
-| **Shamraiz Tasawar** | 02-131232-112 | Game physics, jump mechanics & user input handling |
-
----
-
 ## 🎮 About the Game
 
 This project recreates **Doodle Jump** — a game where a character continuously jumps upward on procedurally generated platforms — using object-oriented programming (OOP) principles in **C#**. The implementation demonstrates how core data structures and algorithms directly power real game mechanics.
