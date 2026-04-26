@@ -1,0 +1,10 @@
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\bin\Debug\DoodleJump.exe.config
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\bin\Debug\DoodleJump.exe
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\bin\Debug\DoodleJump.pdb
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\obj\Debug\DoodleJump.csproj.AssemblyReference.cache
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\obj\Debug\DoodleJump.Form1.resources
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\obj\Debug\DoodleJump.Properties.Resources.resources
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\obj\Debug\DoodleJump.csproj.GenerateResource.cache
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\obj\Debug\DoodleJump.csproj.CoreCompileInputs.cache
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\obj\Debug\DoodleJump.exe
+C:\Users\ST\Desktop\DoodleJump-c-sharp-master\DoodleJump\obj\Debug\DoodleJump.pdb
